@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30ec71a0-41a9-4a69-8804-8db2cdecd70c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img/Blender.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Bootstrap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/CSS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/HTML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Javascript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/PHP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Python.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bootstrap-5-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c#.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/C#.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c++.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/C++.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/css-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/html-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-javascript.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mysql_original_wordmark_logo_icon_146417.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/MYSQL.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/python-5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3HMjcBpKNO9VJ1kLkhG609Cm9W8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.jetbrains.opentelemetry.toolwindow.stripe.promo": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30ec71a0-41a9-4a69-8804-8db2cdecd70c" name="Changes" comment="" />
+      <created>1785684912664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785684912664</updated>
+      <workItem from="1785684912665" duration="3341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

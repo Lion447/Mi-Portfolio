@@ -86,7 +86,6 @@
   left: 47%;
   transform: translateX(-50%) rotate(45deg);
   transition: all 0.4s cubic-bezier(0.68, -0,55, 0.265, 1.55);
-
 }
 
 .wrapper .icon:hover span,
@@ -94,15 +93,14 @@
   text-shadow: 0px -1px 0px rgb(0, 0, 0, 0.4); 
   transform: rotate(0deg) skew(0deg) translate(0, -10px);
   transition: 0.5s;
-  
 }
 
 .wrapper .GitHub:hover span,
 .wrapper .GitHub:hover .tooltip,
 .wrapper .GitHub:hover .tooltip::before{
   background: #333;
-  
 }
+
 .wrapper .Linkedin:hover span,
 .wrapper .Linkedin:hover .tooltip,
 .wrapper .Linkedin:hover .tooltip::before{
@@ -130,13 +128,6 @@
   background: #fff;
 }
 
-.wrapper .Javascript:hover span,
-.wrapper .Javascript:hover .tooltip,
-.wrapper .Javascript:hover .tooltip::before{
-  color: #f0db4f;
-  background: #323330;
-}
-
 .wrapper .C:hover span,
 .wrapper .C:hover .tooltip,
 .wrapper .C:hover .tooltip::before{
@@ -157,15 +148,6 @@
   color: #5382a1;
   background: #fff;
 }
-
-.wrapper .PHP:hover span,
-.wrapper .PHP:hover .tooltip,
-.wrapper .PHP:hover .tooltip::before{
-  color: #8993be;
-  background: #323330;
-}
-
-
 
 /* ---------------------  Educación --------------------- */
 
@@ -219,7 +201,6 @@
 .containeer:nth-child(8){
   animation-delay: 7s;
 }
-  
 
 .box-arrow{
   position: relative;
@@ -270,7 +251,6 @@
   }
 }
 
-
 .left-containeer-arrow{
   height: 0;
   width: 0;
@@ -294,7 +274,6 @@
   border-right: 15px solid #efb810;
   left: -15px;
 }
-
 
 .scroll-up-btn{
   all:unset;
