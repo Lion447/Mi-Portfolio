@@ -296,3 +296,84 @@
   margin-bottom: -14px;
   pointer-events: none;
 }
+
+
+/* =================== RESPONSIVE TIMELINE =================== */
+
+@media (max-width: 768px){
+
+  body{
+    overflow-x:hidden;
+  }
+
+  .container{
+    padding-left:15px;
+    padding-right:15px;
+  }
+
+  /* Línea del timeline a la izquierda */
+  .timeline::after{
+    left:30px;
+    margin-left:0;
+  }
+
+  /* Todas las tarjetas ocupan el ancho completo */
+  .containeer{
+    width:100%;
+    left:0 !important;
+    padding-left:80px;
+    padding-right:20px;
+    margin-bottom:35px;
+  }
+
+  .timeline-content{
+    width:100%;
+    max-width:none;
+    min-width:0;
+    padding:20px;
+    border-radius:15px;
+  }
+
+  /* Logos */
+  .containeer img{
+    left:8px;
+    right:auto;
+    width:40px;
+    height:40px;
+  }
+
+  /* Flechas */
+  .left-containeer-arrow,
+  .right-containeer-arrow{
+    left:-15px;
+    right:auto;
+    border-right:15px solid #efb810;
+    border-left:0;
+    border-top:15px solid transparent;
+    border-bottom:15px solid transparent;
+  }
+
+  /* Texto */
+  .timeline-content h2{
+    font-size:1.5rem;
+  }
+
+  .timeline-content h3{
+    font-size:1.2rem;
+  }
+
+  .timeline-content p{
+    font-size:1rem;
+    line-height:1.6;
+    text-align:left;
+    word-break:normal;
+    overflow-wrap:break-word;
+  }
+
+  /* Iconos */
+  .wrapper{
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:15px;
+  }
+}
