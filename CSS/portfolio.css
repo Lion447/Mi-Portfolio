@@ -297,8 +297,7 @@
   pointer-events: none;
 }
 
-
-/* =================== RESPONSIVE TIMELINE =================== */
+/* --------------------- Responsive Timeline --------------------- */
 
 @media (max-width: 768px){
 
